@@ -1,2 +1,8 @@
-# Portfolio
-A collection of projects emphasizing data, technical research, and engineering.
+# Luke McDuff Portfolio
+_A collection of projects emphasizing engineering, data and technical research._
+
+[ASESP16_CliniConnect_1-master](https://github.com/ljm7b2/Portfolio/tree/master/ASESP16_CliniConnect_1-master)
+* This was my capstone engineering project for the course Advanced Engineering at UMKC. The concept inspiration came from my work at Cerner in building home health/community software as well as from my wife who was working as an RN in an inner city/low-income area clinic. A large problem for the population being served at my wife’s clinic was that the clinic was having trouble communicating with the patients via traditional methods like phone calls; and very few patients were actually able to access their info on the patient portal the clinic had setup for each patient. The goal was to find a way to make clinic-patient communication easier. In short: creating a system that was much more streamlined and simpler than a full-blown patient portal and less traditional than having to constantly field phone calls. The app seeks to improve communication by simply streamlining the essentials (as determined for low-income patients): Appointment reminders, GPS directions to the clinic, upload ability for daily vitals including BP and Blood Sugar, and lab orders sent directly to phone (emphasis Coumadin patients and those who have weekly lab draws). The app also provides a back-end administration application to faciliate the communication with patients. 
+* The patient app is written in Java, the server application uses Java servlets as well as Mongo DB database to facilitate client-clinic COM, the administration application is written in Javascript, using Ionic framework
+* This was a team based project. I was responsible for the project concept as well as the overall majority of engineering and architecture for the project
+
