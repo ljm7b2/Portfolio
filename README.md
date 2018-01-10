@@ -34,7 +34,7 @@ _A collection of projects emphasizing engineering, data and technical research_
 
 #### Extras
 * If you have reached this point and are wondering what other completely random projects I have been involved with... then I don't want to disappoint you. The links are below, proceed with caution, otherwise...avert your eyes.
-* [EvidenceGen](https://github.com/ljm7b2/EvidenceGen) I built this tool to use in my daily work when capturing test evidence. It can grab screen shots and auto generate documents. A friendly helper for those who follow medium risk processes. 
+* [EvidenceGen](https://github.com/ljm7b2/EvidenceGen) I built this tool to use in my daily work when capturing test evidence. It can grab screen shots during test runs and auto generate the corresponding test evidence Word documents. A major time saver and friendly helper for those who follow medium risk processes. 
 * [Hurricane Rider: T.V. Powderly's Antistrike Position in the Knights of
 Labor Movement](https://drive.google.com/open?id=1wL4bWhYrY7mHewA04KlpzoI3L4mxfgV4) An historical research paper written for Senior Capstone.
 * [Radio Moscow - 2007](https://www.allmusic.com/album/radio-moscow-mw0000738205) A review on AllMusic.com of an album I recorded.
